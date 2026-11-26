@@ -51,10 +51,10 @@ Confirm that `gpg --verify` reports a good signature from `Colly Developer (Coll
 
 - **Debian / Ubuntu (`.deb`):**
   ```bash
-  sudo apt install ./Colly-Portfolio-2.0.0-2012-Linux-x86_64.deb
+  sudo apt install ./Colly-Portfolio-2.0.0-2015-Linux-x86_64.deb
   ```
 - **AppImage (`.AppImage`):**
   ```bash
-  chmod +x Colly-Portfolio-2.0.0-2012-Linux-x86_64.AppImage
-  ./Colly-Portfolio-2.0.0-2012-Linux-x86_64.AppImage
+  chmod +x Colly-Portfolio-2.0.0-2015-Linux-x86_64.AppImage
+  ./Colly-Portfolio-2.0.0-2015-Linux-x86_64.AppImage
   ```
